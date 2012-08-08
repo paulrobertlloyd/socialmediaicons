@@ -8,6 +8,13 @@ Licensed under a Attribution-Share Alike 2.0 UK: England & Wales Licence. I clai
 
 ## Release History
 
+### v1.7 - 20th December 2010
+* Added 1 new icon (Pinboard)
+* Deleted 3 icons (Brightkite, Technorati, Yahoo Buzz)
+* Myspace icon redrawn with new logo
+* Gowalla icon updated to use 'G' motif
+* Twitter icon updated to use bird motif
+
 ### v1.6 - 22nd September 2010
 * Added 8 new icons (BBC iD, Formspring, Github, Lanyrd, Meetup, Plancast, Retweet, Spotify)
 * Deleted 4 icons (Just Giving, Ning, OPML, Virb)
