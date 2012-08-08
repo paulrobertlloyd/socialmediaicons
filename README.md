@@ -87,7 +87,7 @@ Copyright © Geotag Icon Project. All rights reserved.
 <http://www.geotagicons.com/>
 
 Geotag icon is licensed under a Creative Commons Attribution-Share Alike 3.0 license or LGPL.  
-<http://creativecommons.org/licenses/by-sa/3.0/>
+<http://creativecommons.org/licenses/by-sa/3.0/>  
 <http://opensource.org/licenses/lgpl-license.php>
 
 ### Share Icon
