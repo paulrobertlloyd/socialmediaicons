@@ -1,14 +1,35 @@
 # Social Media Icons
 by Paul Robert Lloyd
 
+## Licence
+Thanks for downloading these icons. If you decide to use them, please include the following attribution link somewhere on your site: <http://paulrobertlloyd.com/2009/06/social_media_icons>
+
 Provision of these icons does not reflect endorsement of individual services.
 
-## Licence
-Thanks for downloading these icons. If you decide to use them, please use the following attribution link: <http://paulrobertlloyd.com/2009/06/social_media_icons>
+Licensed under a Attribution-Share Alike 2.0 UK: England & Wales Licence. I claim no right of ownership to the company logos used in these icons.  
+<http://creativecommons.org/licenses/by-sa/2.0/uk/>
 
-Licensed under a Attribution-Share Alike 2.0 UK: England & Wales Licence. I claim no right of ownership to the company logos used in these icons. <http://creativecommons.org/licenses/by-sa/2.0/uk/>
+## About the template files
+This download includes templates for each of the four icon sizes. These have been saved as layered Fireworks PNG files, allowing them to be edited with that software. They can also be imported as flat images into other graphic editing packages, and altered using colour overlay layer effects and hue/saturation controls.
+
+## Support and icon suggestions
+Please provide any feedback or suggestions in this Get Satisfaction community forum:  
+<http://getsatisfaction.com/paulrobertlloyd/products/paulrobertlloyd_social_media_icons>
 
 ## Release History
+### v1.9 - 24 January 2012
+* Added 7 new icons (500px, Etsy, Instagram, Pintrest, Soundcloud, Stack Overflow, Zerply)
+* Removed 8 icons (Bebo, eBay, Fire Eagle, Gowalla, Mixx, Netvibes, PayPal, Picasa)
+* AIM icon updated with new logo
+* Foursquare icon updated with revised logo
+* Google+ icon updated with new logo
+* Lanyrd icon updated to match iOS icon
+* Orkut icon updated with new logo
+* StumbleUpon icon updated with new logo
+* Subtle refinements and iteration
+* Support community opened on Get Satisfaction
+* Read Me file now markdown formatted
+* Download now includes blank icon templates
 
 ### v1.8 - 21st August 2011
 * Added 5 new icons (about.me, Forrst, Google+, rdio, Speaker Deck)
@@ -59,8 +80,8 @@ Licensed under a Attribution-Share Alike 2.0 UK: England & Wales Licence. I clai
 ### v1.0 - 29th June 2009
 * Initial Release (36 icons in 4 sizes)
 
-## Credits
 
+## Credits
 ### Geotag
 Copyright © Geotag Icon Project. All rights reserved.  
 <http://www.geotagicons.com/>
