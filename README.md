@@ -8,6 +8,9 @@ Licensed under a Attribution-Share Alike 2.0 UK: England & Wales Licence. I clai
 
 ## Release History
 
+### v1.5.1 - 16th March 2010
+* Fixed border on delicious-16x16.png
+
 ### v1.5 - 14th March 2010
 * Added 12 new icons (Creative Commons, Dribbble, Foursqaure, Get Satisfaction, Gowalla, identi.ca, Paypal, Slideshare, Viddler, XING, Xbox, Zootool)
 * iMeem icon removed (service no longer available)
