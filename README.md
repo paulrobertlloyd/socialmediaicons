@@ -1,12 +1,20 @@
 # Social Media Icons
 by Paul Robert Lloyd
 
+Provision of these icons does not reflect endorsement of individual services.
+
 ## Licence
-Thanks for downloading these icons. If you decide to use them, please place the following attribution link: <http://paulrobertlloyd.com/2009/06/social_media_icons>
+Thanks for downloading these icons. If you decide to use them, please use the following attribution link: <http://paulrobertlloyd.com/2009/06/social_media_icons>
 
 Licensed under a Attribution-Share Alike 2.0 UK: England & Wales Licence. I claim no right of ownership to the company logos used in these icons. <http://creativecommons.org/licenses/by-sa/2.0/uk/>
 
 ## Release History
+
+### v1.8 - 21st August 2011
+* Added 5 new icons (about.me, Forrst, Google+, rdio, Speaker Deck)
+* Removed 1 icon (Ember)
+* 16x16 icons are now saved as 32-bit alpha PNG
+* Various other icon refinements
 
 ### v1.7 - 20th December 2010
 * Added 1 new icon (Pinboard)
