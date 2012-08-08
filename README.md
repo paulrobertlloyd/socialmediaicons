@@ -8,6 +8,15 @@ Licensed under a Attribution-Share Alike 2.0 UK: England & Wales Licence. I clai
 
 ## Release History
 
+### v1.6 - 22nd September 2010
+* Added 8 new icons (BBC iD, Formspring, Github, Lanyrd, Meetup, Plancast, Retweet, Spotify)
+* Deleted 4 icons (Just Giving, Ning, OPML, Virb)
+* iTunes icon redrawn with new logo
+* Get Satisfaction icon redrawn with new logo
+* Twitter icon updated with correct brand colouring
+* Digg icon updated with new brand colouring
+* Various other icon refinements
+
 ### v1.5.1 - 16th March 2010
 * Fixed border on delicious-16x16.png
 
@@ -44,13 +53,6 @@ Copyright © Geotag Icon Project. All rights reserved.
 Geotag icon is licensed under a Creative Commons Attribution-Share Alike 3.0 license or LGPL.  
 <http://creativecommons.org/licenses/by-sa/3.0/>
 <http://opensource.org/licenses/lgpl-license.php>
-
-### OPML
-Copyright © OPML Icon Project. All rights reserved.  
-<http://opmlicons.com/>
-	
-OPML icon is licensed under a Creative Commons Attribution-Share Alike 2.5 license.  
-<http://creativecommons.org/licenses/by-sa/2.5/>
 
 ### Share Icon
 Copyright © Share Icon Project. All rights reserved.  
