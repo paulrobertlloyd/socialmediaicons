@@ -7,10 +7,10 @@ Thanks for downloading these icons. If you decide to use them, please include th
 Licensed under a Creative Commons Attribution-Share Alike 3.0 license. I claim no right of ownership to the company logos used in these icons.  
 <http://creativecommons.org/licenses/by-sa/3.0/>
 
-## About the source file
+## Source file
 A Fireworks PNG source file is included with this distribution. You can use it to edit existing icons or use as the basis for new ones.
 
-## About the template files
+## Template files
 Grey icon-less templates are provided for each of the four sizes. These have been saved as layered Fireworks PNG files, allowing them to be edited with that software. They can also be imported as flat images into other graphic editing packages, and altered using colour overlay layer effects and hue/saturation controls.
 
 ## Support and icon suggestions
