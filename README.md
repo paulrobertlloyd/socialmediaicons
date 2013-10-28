@@ -100,7 +100,7 @@ Feedback or suggestions should be submitted as issues on GitHub:
 ## Credits
 ### Geotag
 Copyright (c) Geotag Icon Project. All rights reserved.
-<http://www.geotagicons.com/>
+<http://geotagicons.wordpress.com/>
 
 Geotag icon is licensed under a Creative Commons Attribution-Share Alike 3.0 license or LGPL.  
 <http://creativecommons.org/licenses/by-sa/3.0/>  
@@ -112,4 +112,5 @@ Copyright (c) Shareaholic. All rights reserved.
 
 Shareaholic has made the Open Share Icon free for use by others under a Creative Commons Attribution-Share Alike 3.0 license.  
 <http://creativecommons.org/licenses/by-sa/3.0/>
-You should include an attribution link back to <http://www.openshareicons.com/> from your work.
+
+You should include an attribution link back to <http://www.openshareicons.com/> from your work.
