@@ -1,0 +1,31 @@
+{
+  "name": "SocialMediaIcons",
+  "version": "1.10.1",
+  "homepage": "https://github.com/douglaslise/socialmediaicons",
+  "authors": [
+    "Douglas Lise <douglaslise@gmail.com>",
+    "Paul Robert Lloyd <me+github@paulrobertlloyd.com>"
+  ],
+  "keywords": [
+    "A",
+    "set",
+    "of",
+    "standardised",
+    "icons",
+    "for",
+    "popular",
+    "social",
+    "networking",
+    "services",
+    "and",
+    "tools."
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
