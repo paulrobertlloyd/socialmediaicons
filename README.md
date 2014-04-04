@@ -34,7 +34,7 @@ Feedback or suggestions should be submitted as issues on GitHub:
 * Moved to CC 3.0 international (unported) licence
 
 ### v1.9 — 24 January 2012
-* Added 7 new icons (500px, Etsy, Instagram, Pintrest, Soundcloud, Stack Overflow, Zerply)
+* Added 7 new icons (500px, Etsy, Instagram, Pinterest, Soundcloud, Stack Overflow, Zerply)
 * Removed 8 icons (Bebo, eBay, Fire Eagle, Gowalla, Mixx, Netvibes, PayPal, Picasa)
 * AIM icon updated with new logo
 * Foursquare icon updated with revised logo
@@ -112,4 +112,5 @@ Copyright (c) Shareaholic. All rights reserved.
 
 Shareaholic has made the Open Share Icon free for use by others under a Creative Commons Attribution-Share Alike 3.0 license.  
 <http://creativecommons.org/licenses/by-sa/3.0/>
-You should include an attribution link back to <http://www.openshareicons.com/> from your work.
+
+You should include an attribution link back to <http://www.openshareicons.com/> from your work.
