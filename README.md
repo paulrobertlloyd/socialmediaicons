@@ -19,6 +19,15 @@ Feedback or suggestions should be submitted as issues on GitHub:
 
 
 ## Release History
+### v1.11 — 26 April 2014
+Limited maintainance release, including contributions from the community:
+
+* Added 1 new icon (Deviant Art by @luclabs)
+* Removed 3 icons (Dopplr, Posterous, Zootool)
+* GitHub icon updated to use Octocat (by @luclabs)
+* Added alternative blue GitHub icon (by @luclabs)
+* Correct spelling of Pinterest (thanks @planspark, @JustinLongo)
+
 ### v1.10 — 3 December 2012
 * Added 5 new icons (App.net, Behance, Microsoft, Readability, This Is My Jam)
 * Removed 12 icons (About.me, Digg This, Formspring, Google Talk, iLike, iTunes, MSN Messenger, OpenID, Plancast, Yahoo! Messenger, Upcoming, Viddler)
